@@ -1,6 +1,6 @@
 # Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
 
-### DATE: 
+### DATE: 21-11-2023
 
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
@@ -36,8 +36,8 @@
 ![image](https://github.com/PuliNagaNeeraj/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/138849173/1aae8adc-4d19-4256-8392-86f6c371b4a2)
 
 
-### Name:
-### Register Number:
+### Name: Puli Naga Neeraj
+### Register Number: 23004033
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
